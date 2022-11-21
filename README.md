@@ -1,3 +1,3 @@
-# TEST
+# Batch IR Converter
 
-This file was added from my local machine
+This script can be used for the batch extraction of IR spectra from machine generated PDFs and conversion into text. It's especially usefull when preparing manuscripts and theses and can save you hours of tedious work.
